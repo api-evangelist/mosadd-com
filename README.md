@@ -1,4 +1,4 @@
-# mosadd-com
+# mosADD
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mosadd-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mosadd.com/
+mosADD is a platform that enables command and control of AI agents, people, and robots through an end‑to‑end encrypted messenger. It offers one‑man‑army operations decks, multi‑agent orchestration, voice‑to‑task transcription, and embeddable chat widgets, targeting teams that need secure, agent‑centric communication without phone numbers.
+
+**Areas:** Company · AI · Messaging · Collaboration · Security · AgentOps
+
+## mosADD on APIs.io
+
+Everything profiled for mosADD is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mosadd-com/](https://apis.io/providers/mosadd-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [mosADD API](https://apis.io/apis/mosadd-com/mosadd-api/) — API for mosADD platform as described in the developer documentation.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [mosADD Authentication](https://apis.io/security/mosadd-com/mosadd-com-authentication/)
+- [mosADD Domain Security](https://apis.io/security/mosadd-com/mosadd-com-domain-security/)
+- [mosADD Vulnerability Disclosure](https://apis.io/security/mosadd-com/mosadd-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [mosADD Plans Pricing](https://apis.io/plans/mosadd-com/mosadd-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mosadd.com/)
+- [Documentation](https://mosadd.com/auth.md)
+- [Getting started](https://mosadd.com/developers)
+- [API reference](https://mosadd.com/.well-known/api-catalog)
+- [Pricing](https://mosadd.com/pricing)
+- [Support](https://mosadd.com/contact)
+- [Changelog](https://mosadd.com/changelog)
+- [Security](https://mosadd.com/trust)
+- [Trust centre](https://mosadd.com/trust)
+- [Terms of service](https://mosadd.com/terms)
+- [Privacy policy](https://mosadd.com/privacy)
+- [GitHub](https://github.com/Hei33enberg)
+
+## API Evangelist rating
+
+**Kin Score 33.3** — thin · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 28.6 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 54.9 |
+
+**Agent readiness 24.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mosadd-com/](https://apis.io/providers/mosadd-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for mosADD: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mosadd-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
